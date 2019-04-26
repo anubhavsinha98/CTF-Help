@@ -6,4 +6,4 @@ These are various tricks through which we can solve the stegnography challenges.
 3. Use stylesuxx github online Stegnography tool
 4. Use cat and strings command
 5. Use steghide command to extract the flag using passphrase
-6. Check for metadata(metapicz website).
+6. Check for metadata(metapicz website) or use exiftool for it.
